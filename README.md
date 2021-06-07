@@ -5,3 +5,4 @@
 - 3: Video Player
 - 4: Exchange Rate Calculator
 - 5: DOM Array Methods
+- 6: Menu Slider & Modal
